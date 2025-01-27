@@ -42,7 +42,6 @@
     {"id":{"name":"sprGrid","path":"sprites/sprGrid/sprGrid.yy",},},
     {"id":{"name":"sprPlaceholder","path":"sprites/sprPlaceholder/sprPlaceholder.yy",},},
     {"id":{"name":"sprPlayerPlaceholder","path":"sprites/sprPlayerPlaceholder/sprPlayerPlaceholder.yy",},},
-    {"id":{"name":"sprTile_1","path":"sprites/sprTile_1/sprTile_1.yy",},},
     {"id":{"name":"sprTile","path":"sprites/sprTile/sprTile.yy",},},
     {"id":{"name":"tlPlaceholder","path":"tilesets/tlPlaceholder/tlPlaceholder.yy",},},
   ],
