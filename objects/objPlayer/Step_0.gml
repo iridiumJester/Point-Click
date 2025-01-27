@@ -14,17 +14,8 @@ if ( point_distance(x,y,target_x,y) < 1.5 )
 	speed = 0;
 }
 
-// border
-if (place_meeting(x+speed,y,objBorder))
-{
+// he cant walk
 
-	while (!place_meeting(x+sign(speed),y,objBorder))
-	{
-		x = x + sign(speed);
-	}
-	speed = 0;
-}
-x = x + speed;
 
 // animation
 if speed != 0 { image_speed = 1; }
