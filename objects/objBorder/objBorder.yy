@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objPlayer",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objBorder",
+  "eventList":[],
   "managed":true,
-  "name":"objPlayer",
+  "name":"objBorder",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPlayerPlaceholder",
-    "path":"sprites/sprPlayerPlaceholder/sprPlayerPlaceholder.yy",
+    "name":"sprPlaceholder",
+    "path":"sprites/sprPlaceholder/sprPlaceholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

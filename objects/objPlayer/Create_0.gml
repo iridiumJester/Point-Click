@@ -2,7 +2,7 @@
 
 image_speed = 0;
 
-walkspeed = 5
+walkspeed = 4;
 
 target_x = 0;
 target_y = 0;
