@@ -4,8 +4,10 @@
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":3,
-    "SerialiseWidth":10,
-    "TileCompressedData":[-5,0,2,4,5,-8,0,15,20,21,0,6,0,0,1,2,3,0,36,37,0,22,0,],
+    "SerialiseWidth":11,
+    "TileCompressedData":[
+      -7,0,2,5,6,-7,0,17,20,0,21,22,0,7,0,1,0,2,3,4,0,37,38,0,23,
+    ],
     "TileDataFormat":1,
   },
   "name":"tlEnviron",

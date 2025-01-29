@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sprPlaceholder",
-    "path":"sprites/sprPlaceholder/sprPlaceholder.yy",
+    "name":"sprPlaceholderHighlight",
+    "path":"sprites/sprPlaceholderHighlight/sprPlaceholderHighlight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
