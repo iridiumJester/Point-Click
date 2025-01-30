@@ -46,7 +46,6 @@
     {"id":{"name":"rmTesting","path":"rooms/rmTesting/rmTesting.yy",},},
     {"id":{"name":"mscMain","path":"sounds/mscMain/mscMain.yy",},},
     {"id":{"name":"sfxInteract","path":"sounds/sfxInteract/sfxInteract.yy",},},
-    {"id":{"name":"nefurious","path":"sprites/nefurious/nefurious.yy",},},
     {"id":{"name":"sprEnviron","path":"sprites/sprEnviron/sprEnviron.yy",},},
     {"id":{"name":"sprGrid","path":"sprites/sprGrid/sprGrid.yy",},},
     {"id":{"name":"sprPlaceholder","path":"sprites/sprPlaceholder/sprPlaceholder.yy",},},
